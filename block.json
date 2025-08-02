@@ -1,0 +1,10 @@
+{
+    "apiVersion": 2,
+    "name": "meteo/block",
+    "title": "Météo",
+    "category": "widgets",
+    "icon": "cloud",
+    "editorScript": "file:../build/block.js",
+    "style": "file:./meteo.css"
+  }
+  
